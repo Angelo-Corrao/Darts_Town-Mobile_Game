@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71531f217b3102a4cada521ae0b8e801, type: 3}
+  m_Name: Office
+  m_EditorClassIdentifier: 
+  levelName: Office
+  sceneId: 5
+  location: 1
+  dailyLocation: 1
+  victory: 1
+  prize: 1000
+  entryFee: 500
+  gameMode: Around the clock
+  gameModeDescription: The goal is to hit each section in order from 1 to 12. You
+    can throw 1 dart per turn. <b>To win, hit the bullseye after hitting all the
+    sections in order. </b>
+  gameModeInfoTargetSprite: {fileID: 21300000, guid: 58807938c7fad044dad85da5e0d111d3, type: 3}
+  numberOfGamesForUpgrade: 0200000004000000
+  lockedLevel: {fileID: 21300000, guid: ca088ae56e74e23468751e0ec77f5430, type: 3}
+  unlockedeLevel: {fileID: 21300000, guid: 44fcb224f30541e4bb33fa70e4280968, type: 3}
+  previuosLevel: {fileID: 11400000, guid: db403ffa98ceb8844a5070abb5640397, type: 2}
+  couterToUnlock: 3

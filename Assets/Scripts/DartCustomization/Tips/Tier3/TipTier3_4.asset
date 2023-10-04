@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86cc6e3a6e009ac46a0665bd29113371, type: 3}
+  m_Name: TipTier3_4
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 652bbbc4f73b0d949848c39835fdcbba, type: 3}
+  name: TT34
+  material: {fileID: 2100000, guid: ec6a3f69437cb8d4aa85f68c1280f325, type: 2}
+  dartPart: 1
+  returnedCurrency: 450
+  _PrimaryColor: C1E98A
+  _SecondaryColor: 383838
+  _TertiaryColor: 
+  mesh: {fileID: 3706156333165893952, guid: a9bac7ba610b96d428ff22d33afb35cd, type: 3}
+  tier: 2
+  tierStar: "\u2605\u2605\u2605"

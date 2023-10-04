@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0d002a9b199f0e46824703764583a22, type: 3}
+  m_Name: Stability V
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: cfe12ef79707bc84eb359844d08b4a42, type: 3}
+  name: Stability V
+  sway: 10
+  precision: 7
+  priceCoins: 160000
+  pricePremium: 500
+  notOwnedIcon: {fileID: 21300000, guid: 095f402eb41af0946860185cb4f367c6, type: 3}

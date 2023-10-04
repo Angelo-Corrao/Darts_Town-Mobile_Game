@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0d002a9b199f0e46824703764583a22, type: 3}
+  m_Name: Base
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: c7f67932d0efcb24490a708a6d682000, type: 3}
+  name: Base
+  sway: 1
+  precision: 1
+  priceCoins: 0
+  pricePremium: 0
+  notOwnedIcon: {fileID: 0}

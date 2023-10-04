@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86cc6e3a6e009ac46a0665bd29113371, type: 3}
+  m_Name: FlightTier3_18
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: a39af54e983454f429cc95bd82a0defd, type: 3}
+  name: FT318
+  material: {fileID: 2100000, guid: a1134404658b78c4da1540309282965f, type: 2}
+  dartPart: 2
+  returnedCurrency: 450
+  _PrimaryColor: 383838
+  _SecondaryColor: 53B3B7
+  _TertiaryColor: A5E9DA
+  mesh: {fileID: 6743927987555515163, guid: a9bac7ba610b96d428ff22d33afb35cd, type: 3}
+  tier: 2
+  tierStar: "\u2605\u2605\u2605"

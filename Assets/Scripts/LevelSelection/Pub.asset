@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71531f217b3102a4cada521ae0b8e801, type: 3}
+  m_Name: Pub
+  m_EditorClassIdentifier: 
+  levelName: Pub
+  sceneId: 6
+  location: 2
+  dailyLocation: 2
+  victory: 2
+  prize: 200
+  entryFee: 100
+  gameMode: Darts 301
+  gameModeDescription: You start with 301 points. You have 3 darts per turn accumulting
+    points based on the section you hit. Hitting the double or triple ring accumulates
+    double or triple points. The outer bullseye worths 25, the inner bullseye worths
+    50 points. <b>Reach exacly 0 points to win</b>.
+  gameModeInfoTargetSprite: {fileID: 21300000, guid: 6cb5fb8c4537f7045a56d3741f1b6311, type: 3}
+  numberOfGamesForUpgrade: 0300000006000000
+  lockedLevel: {fileID: 21300000, guid: 047c09f4cba78d74a8d4654bae438f36, type: 3}
+  unlockedeLevel: {fileID: 21300000, guid: 95e00fe16a6c2ce40b4cec87b8b2d1cd, type: 3}
+  previuosLevel: {fileID: 11400000, guid: c75db0051e124a0498c1919b6d428095, type: 2}
+  couterToUnlock: 3

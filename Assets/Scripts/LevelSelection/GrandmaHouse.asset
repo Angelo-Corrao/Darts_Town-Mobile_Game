@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71531f217b3102a4cada521ae0b8e801, type: 3}
+  m_Name: GrandmaHouse
+  m_EditorClassIdentifier: 
+  levelName: Grandma House
+  sceneId: 3
+  location: 0
+  dailyLocation: 0
+  victory: 0
+  prize: 25
+  entryFee: 0
+  gameMode: Fives
+  gameModeDescription: You start with 305 points. You have 3 darts per turn accumulating
+    points based on the section you hit. Hitting the double or triple ring accumulates
+    double or triple points. The outer bullseye worths 25, the inner bullseye worth
+    50 points. <b>Reach 0 or lower to win</b>.
+  gameModeInfoTargetSprite: {fileID: 21300000, guid: 19f755785b50eab4fa4eff306ebab4fe, type: 3}
+  numberOfGamesForUpgrade: 0300000006000000
+  lockedLevel: {fileID: 21300000, guid: 98efc8ead0a8ba2479482094d1e51883, type: 3}
+  unlockedeLevel: {fileID: 21300000, guid: 7917da150c487c141a35d595201d7807, type: 3}
+  previuosLevel: {fileID: 11400000}
+  couterToUnlock: 0

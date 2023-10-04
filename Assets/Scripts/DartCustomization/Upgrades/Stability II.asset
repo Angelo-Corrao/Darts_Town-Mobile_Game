@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0d002a9b199f0e46824703764583a22, type: 3}
+  m_Name: Stability II
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 40e52a0a16dce3e448ae3a8865688dfb, type: 3}
+  name: Stability II
+  sway: 5
+  precision: 3
+  priceCoins: 600
+  pricePremium: 40
+  notOwnedIcon: {fileID: 21300000, guid: a1cdd9df3bf1643409c606f2d7ffee12, type: 3}

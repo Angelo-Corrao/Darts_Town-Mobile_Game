@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86cc6e3a6e009ac46a0665bd29113371, type: 3}
+  m_Name: BodyTier2_11
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 0845b46cd016a434db37532f51eb4c21, type: 3}
+  name: BT211
+  material: {fileID: 2100000, guid: 0f75f781f99bac14db950ebcfd383779, type: 2}
+  dartPart: 0
+  returnedCurrency: 150
+  _PrimaryColor: 383838
+  _SecondaryColor: A5E9DA
+  _TertiaryColor: 
+  mesh: {fileID: 7122759917054971899, guid: a9bac7ba610b96d428ff22d33afb35cd, type: 3}
+  tier: 1
+  tierStar: "\u2605\u2605"
